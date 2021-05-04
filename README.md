@@ -21,6 +21,7 @@ cd pa
 pip install -r requirements.txt
 ```
 過程中如果沒有報錯至此整個安裝完成。
+
 5.如果需要看裝了什麼套件跟套件版本就打
 ```
 pip list
