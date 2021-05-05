@@ -37,3 +37,6 @@ conda install nb_conda
 7.之後就能在jupyter下自由切換虛擬環境
 
 ex：example.ipynb-->Kernal-->Change Kernal-->切換成自己想要的虛擬環境
+
+#-------#
+觸媒壽命預測模型
